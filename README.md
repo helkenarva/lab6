@@ -1,1 +1,1 @@
-# lab4
+# lab6 [![Build Status](https://travis-ci.org/helkenarva/lab6.svg?branch=master)](https://travis-ci.org/helkenarva/lab6)
